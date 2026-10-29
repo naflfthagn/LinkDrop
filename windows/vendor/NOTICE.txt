@@ -1,0 +1,8 @@
+BouncyCastle.Crypto.dll 1.8.9
+
+The Bouncy Castle Crypto Package For C#
+Copyright (c) 2000-2024 The Legion of the Bouncy Castle Inc. (http://www.bouncycastle.org)
+
+Except where otherwise stated, this software is distributed under a license based on the MIT X Consortium license.
+License: https://www.bouncycastle.org/licence.html
+Source: https://www.nuget.org/packages/BouncyCastle/1.8.9

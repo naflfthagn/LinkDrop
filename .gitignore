@@ -1,0 +1,21 @@
+# Build outputs
+build/
+dist/
+*.zip
+
+# Android
+android/.gradle/
+android/.kotlin/
+android/.idea/
+android/build/
+android/app/build/
+android/local.properties
+android/keystore/
+android/keystore.properties
+
+# Windows
+windows/build/
+
+# OS
+Thumbs.db
+.DS_Store
